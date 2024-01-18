@@ -1,4 +1,4 @@
-Shader "Custom/Rim Rainbow"
+Shader "Custom/RimRainbow"
 {
     Properties
     {
